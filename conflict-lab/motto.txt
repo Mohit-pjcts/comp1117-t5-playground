@@ -1,0 +1,3 @@
+Branch early, commit often.
+Pull before you push.
+Resolve conflicts calmly.

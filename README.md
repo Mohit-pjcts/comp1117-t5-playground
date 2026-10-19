@@ -1,5 +1,7 @@
 # COMP1117 T5 Playground
 
+# main
+
 A **practice repository** for the COMP1117 Tutorial 5 (Advanced GitHub: branching, pushing, pulling, merging).
 Nothing here matters - break it, fix it, learn from it.
 
@@ -19,11 +21,11 @@ Then open a **Pull Request** on GitHub (base `main` <- compare `feature/<your-na
 
 ## What is in here
 
-| Path | Used for |
-|---|---|
-| `hello.py` | a tiny script to edit on your branch |
-| `students/` | add one file per person (no conflicts: everyone adds a *different* file) |
-| `conflict-lab/motto.txt` | the **merge conflict** exercise (see below) |
+| Path                     | Used for                                                                 |
+| ------------------------ | ------------------------------------------------------------------------ |
+| `hello.py`               | a tiny script to edit on your branch                                     |
+| `students/`              | add one file per person (no conflicts: everyone adds a _different_ file) |
+| `conflict-lab/motto.txt` | the **merge conflict** exercise (see below)                              |
 
 ## Merge conflict exercise
 
